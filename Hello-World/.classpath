@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 [1.6.0_65-b14-466.1]"/>
+	<classpathentry kind="lib" path="spring-boot-autoconfigure-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-context-4.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-web-4.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-boot-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jackson-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="jackson-datatype-json-org-1.8.0.jar"/>
+	<classpathentry kind="lib" path="jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="scala-library-2.11.2.jar"/>
+	<classpathentry kind="lib" path="scala-parser-combinators-2.11.0-M4.jar"/>
+	<classpathentry kind="lib" path="spring-beans-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-boot-1.1.6.RELEASE-1.jar"/>
+	<classpathentry kind="lib" path="spring-context-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-core-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-web-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
